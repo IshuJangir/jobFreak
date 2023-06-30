@@ -7,11 +7,8 @@ import Information from './components/Information';
 import Guide from './components/Guide'
 import Contact from './components/Contact';
 import NoPage from './components/NoPage';
-import { useState } from 'react';
 
 export default function App() {
-
-  const[login,setLogin]=useState(false);
 
 
   return (
