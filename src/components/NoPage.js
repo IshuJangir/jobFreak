@@ -8,8 +8,9 @@ export default function () {
             <img src={nopage} width={500} alt="" />
         </div>
 
-        <div className='text-red-600 flex justify-center items-center text-3xl '>
-            Error No Page Found
+        <div className='text-white flex justify-center flex flex-col items-center text-3xl '>
+            <p>Error No Page Found</p>
+            <p className='text-red-600 text-sm'>(This page is inserted here intentionally inplace of guide*)</p>
         </div>
     </div>
   )

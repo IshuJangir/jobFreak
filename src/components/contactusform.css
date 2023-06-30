@@ -149,14 +149,3 @@ section::after{
     height: 100%;
 }
 
-.glass-button {
-    background-color: rgba(255,255,255,0.1);
-    border: 1px solid rgba(255,255,255,0.1);
-    backdrop-filter: blur(30px);
-    color: rgba(255,255,255,0.8);
-    width: fit-content;
-  }
-  
-  .glass-button:hover {
-    background-color: rgba(255,255,255,0.2);
-  }
