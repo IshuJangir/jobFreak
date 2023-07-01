@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/jobFreak/static/css/main.fe4c1a8b.css",
+    "main.js": "/jobFreak/static/js/main.f73cc4ba.js",
+    "static/media/nopage.png": "/jobFreak/static/media/nopage.f83cbfba3448c81093a8.png",
+    "index.html": "/jobFreak/index.html",
+    "main.fe4c1a8b.css.map": "/jobFreak/static/css/main.fe4c1a8b.css.map",
+    "main.f73cc4ba.js.map": "/jobFreak/static/js/main.f73cc4ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe4c1a8b.css",
+    "static/js/main.f73cc4ba.js"
+  ]
+}
