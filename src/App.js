@@ -12,12 +12,12 @@ export default function App() {
 
 
   return (
-    <div className='bg-richblack-900 '>
-      <Navbar login={login} setLogin={setLogin} />
+    <div className='bg-richblack-900 h-screen w-screen overflow-hidden'>
+      <Navbar/>
 
       <Routes>
           <Route path='/' element={<Home></Home>}/>
-          <Route path='/Contact' element={<Contact login={login} ></Contact>}/>
+          <Route path='/Contact' element={<Contact></Contact>}/>
           <Route path='/information' element={<Information></Information>}/>
           <Route path='/guide' element={<Guide></Guide>}/>
           <Route path='*' element={<NoPage></NoPage>}/>

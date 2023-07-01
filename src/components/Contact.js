@@ -32,7 +32,7 @@ export default function Contact({login}) {
           <div class="col">
             <div class="inputBox">
               <input type="text" name="lastname" required="required"  />
-              <span class="text">Last Name</span>
+              <span className="text">Last Name</span>
               <span class="line"></span>
             </div>
           </div>
